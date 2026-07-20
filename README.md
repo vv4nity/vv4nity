@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emanuel 👋</h1>
-<p align="center">Computer Engineering (PUP '26) · Building AI/ML pipelines and full-stack apps · Manila, PH</p>
+<p align="center">Software Engineer · AI/ML Engineer · Full-Stack Developer — specializing in System Development · Manila, PH</p>
 
 <p align="center">
   <a href="https://emanueljabon-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-emanueljabon--portfolio.vercel.app-8A2BE2?style=for-the-badge"></a>
@@ -11,20 +11,12 @@
 
 ### About
 
-I build and ship production-grade software — from responsive front ends and REST APIs to machine-learning pipelines and their deployment. Open to roles for Summer 2026.
+Computer Engineering graduate specializing in **System Development**, with hands-on experience across full-stack web development, backend services, and applied AI/ML. Comfortable building and shipping production-grade software with REST APIs, clean architecture, and Agile workflows — from responsive front ends to machine-learning pipelines and their deployment.
 
-- 🎓 BSCpE, Polytechnic University of the Philippines — 2026
-- 🔭 Currently building **ml-pipeline-v2**
-- 🌱 Focused on applied AI/ML and system development
-
-### Featured projects
-
-| Project | What it does |
-|---|---|
-| [**MiraFit AI**](https://github.com/vv4nity/MiraFit) | Real-time pose-estimation & exercise-validation pipeline (MediaPipe + YOLOv8), 95% rep-counting accuracy, on-device at 60 FPS |
-| [**CpE Hardhatting Ceremony**](https://github.com/vv4nity/cpe-hardhatting-2026) | QR-pass, check-in, and seating platform built solo for 382 attendees, with Supabase RLS-backed real-time admin dashboard |
-| [**Dorm Bill Splitter**](https://github.com/vv4nity/dorm-bill-splitter) | Fair bill-splitting app for dormmates, tracking who owes what |
-| [**Solar Watering System**](https://github.com/vv4nity/solar-watering-dashboard) | Solar-powered IoT irrigation system with a live monitoring dashboard |
+- 🎓 BS Computer Engineering — System Development, Polytechnic University of the Philippines (2022–2026, completed)
+- 💼 Software Engineering Intern @ American Express — backend services & internal tools for production systems, 50+ features shipped across 6 sprints
+- 🧠 Also experienced in IT Operations (Concentrix) and full-stack web development (ROC.PH)
+- 📜 Certified: CCNA – Introduction to Networks (Cisco), Generative AI (Google Cloud)
 
 ### Tech stack
 
