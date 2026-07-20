@@ -14,7 +14,7 @@
 Computer Engineering graduate specializing in **System Development**, with hands-on experience across full-stack web development, backend services, and applied AI/ML. Comfortable building and shipping production-grade software with REST APIs, clean architecture, and Agile workflows — from responsive front ends to machine-learning pipelines and their deployment.
 
 - 🎓 BS Computer Engineering — System Development, Polytechnic University of the Philippines (2022–2026)
-- 📍 Based in Manila, PH — open to Software Engineering opportunities
+- 📍 Based in Manila, PH — open to Software Engineering and AI/ML opportunities
 
 ### Tech stack
 
