@@ -15,7 +15,6 @@ Computer Engineering graduate specializing in **System Development**, with hands
 
 - 🎓 BS Computer Engineering — System Development, Polytechnic University of the Philippines (2022–2026)
 - 📍 Based in Manila, PH — open to Software Engineering opportunities
-- 🌏 English (Professional) · Filipino (Native)
 
 ### Tech stack
 
