@@ -13,10 +13,9 @@
 
 Computer Engineering graduate specializing in **System Development**, with hands-on experience across full-stack web development, backend services, and applied AI/ML. Comfortable building and shipping production-grade software with REST APIs, clean architecture, and Agile workflows — from responsive front ends to machine-learning pipelines and their deployment.
 
-- 🎓 BS Computer Engineering — System Development, Polytechnic University of the Philippines (2022–2026, completed)
-- 💼 Software Engineering Intern @ American Express — backend services & internal tools for production systems, 50+ features shipped across 6 sprints
-- 🧠 Also experienced in IT Operations (Concentrix) and full-stack web development (ROC.PH)
-- 📜 Certified: CCNA – Introduction to Networks (Cisco), Generative AI (Google Cloud)
+- 🎓 BS Computer Engineering — System Development, Polytechnic University of the Philippines (2022–2026)
+- 📍 Based in Manila, PH — open to Software Engineering opportunities
+- 🌏 English (Professional) · Filipino (Native)
 
 ### Tech stack
 
